@@ -9,6 +9,8 @@ A passionate Full Stack Developer from India
 ### GitHub Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayursoni1518&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayursoni1518&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 ### GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mayursoni1518&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
