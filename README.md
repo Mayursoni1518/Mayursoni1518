@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Mayur Soni
-A passionate Full Stack Developer from India
+A passionate Mern Stack Developer from India
 
 - 👀 I’m interested in **Full Stack Development**
 - 🌱 I’m currently learning **Data Structures and Algorithms**
